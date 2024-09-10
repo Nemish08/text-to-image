@@ -27,7 +27,7 @@ export default function Home(){
         <>
            <div className=" w-screen h-screen bg-slate-200 flex flex-col items-center  justify-center">
                 <div className=" h-[500px] w-[600px] bg-white rounded-3xl  justify-center flex flex-col items-center gap-5">
-                <div>Imageefy</div>
+                <div><h1>Imageefy</h1></div>
                     <div className="flex w-[90%]">
                         <label className=" bg-blue-300 py-2 px-4 rounded-l-2xl">Prompt</label>
                         <input type="text" className=" border-none outline-none bg-blue-50 rounded-r-2xl px-2 overflow-y-auto w-full " 
